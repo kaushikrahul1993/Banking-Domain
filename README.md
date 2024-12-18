@@ -1,2 +1,2 @@
-# Banking-Project
+# Banking-Domain
 Customer Attrition Analysis
